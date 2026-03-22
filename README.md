@@ -1,4 +1,4 @@
-# 𝕾𝖈𝖔𝖕𝖊
+# 𝐒𝐜𝐨𝐩𝐞
 
 > _The Missing Screen for the T-1. High-precision, dedicated visual companion for Euclidean sequences monitoring. Translates abstract generative patterns into an atomic 3D orbital interface for real-time tracking._
 
