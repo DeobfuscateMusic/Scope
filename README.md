@@ -10,8 +10,7 @@
 
 ---
 
-<img width="1422" height="725" alt="Scopepreview" src="https://github.com/user-attachments/assets/74993257-cbb6-4532-970c-7f6a221528b8" />
-
+https://github.com/user-attachments/assets/ec2a07e5-f6e4-44cb-b330-e6973227113e
 
 ---
 
